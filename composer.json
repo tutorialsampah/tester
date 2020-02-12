@@ -1,1 +1,10 @@
-sad
+{
+	"require-dev": {
+		"phpunit/phpunit": "^8"
+	},
+	"autoload": {
+		"classmap": [
+			"tes/"
+		]
+	}
+}
